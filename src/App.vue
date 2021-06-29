@@ -1,7 +1,7 @@
 <template>
   <div>
     <img alt="Vue logo" src="./assets/logo.png" />
-    <HelloWorld msg="Welcome to LSH App" />
+    <HelloWorld msg="Welcome to LSH2 App" />
   </div>
 </template>
 
